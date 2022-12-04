@@ -1,0 +1,28 @@
+.products_screen {
+  padding: 20px 5%;
+}
+.all_products_list {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 50px 0;
+  flex-wrap: wrap;
+}
+.products_filter {
+  display: flex;
+  flex-wrap: wrap;
+}
+.products_filter_item {
+  background-color: rgb(240, 236, 236);
+  font-size: 12px;
+  border-radius: 5px;
+  padding: 3px 10px;
+  display: flex;
+  align-items: center;
+  color: grey;
+  margin-right: 15px;
+}
+.products_filter_item input {
+  margin-right: 5px;
+  width: 12px;
+}

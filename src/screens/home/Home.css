@@ -1,0 +1,10 @@
+.home_sections {
+  width: 100%;
+  padding: 40px 5%;
+}
+.home_section_list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
